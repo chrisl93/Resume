@@ -1,2 +1,2 @@
 # Resume
-Professional resume generated in Python
+Christopher Liem's professional resume generated in Python
